@@ -1,6 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # SiteLaravel
-Desenvolvimento de um site básico em laravel, matéria PW3.
+Desenvolvimentoo de um site básico em laravel, matéria PW3.
 =======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
@@ -69,3 +70,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 >>>>>>> 7414544 (Laravel site desenvolvido)
+=======
+# Laravel-PW3
+Atividade da matéria de PW3 para o desenvolvimento de um site básico em laravel.
+>>>>>>> 24446e3b8a58745f4e4c8df32785e489d7b66c7a
