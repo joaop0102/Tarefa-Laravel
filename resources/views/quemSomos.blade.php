@@ -8,9 +8,9 @@
     <div class="container fundoStyle">
         <div class="row">
             <div class="col text-center">
-            <video  width="620" height="380" controls poster="">
-              <source src="/img/etecVideo.mp4" type="video/mp4">
-            </video>
+            <iframe width="560" height="315" 
+            src="https://www.youtube.com/embed/HDUT3DwQb0Y?si=p3ZGCoG1i2MTCJpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+            </iframe>
             </div>
         </div>
 
